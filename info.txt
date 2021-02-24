@@ -1,0 +1,26 @@
+1- initializing the node project by npm init.
+creating a server file (index.js)
+istalling some dependencies (express = framework of node js that provides a robust set of featuresto develop web and mobile app)
+(mongoose = it is a ODM library for mongodb and node )
+(body-parser = body parsing middleware responsible for parsing the incoming req bodies in a middleware)
+installing the two more dependncy (nodemon, dotenv)
+starting the server
+connecting the mongodb database
+created the user model
+created registration route
+login route
+login with google and FACEBOOK
+dependencies: passport auth  passport-local passport-facebook 
+route to logout
+route to delete a user
+created profile model
+route to create your profile
+dependency: multer=> to upload files
+route to view your profile
+route to edit your profile 
+created bookAds model
+routes to post new bookAds
+routes to find the bookAds by category
+searching the bookAds by their Title name
+route to view myAds
+route to delete myAds
